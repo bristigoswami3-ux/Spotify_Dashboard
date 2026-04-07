@@ -7,7 +7,7 @@ The dataset includes key attributes such as user demographics (age, country), su
 ![CoverImage](CoverPhoto.png)
 
 ## File Details
-- **Filename:** [`Practice spotify Analysis.xlsx`](https://docs.google.com/spreadsheets/d/1589uHYakPDdZz19lx-zURanHff0ZLZosa1xHu-kQLLs/edit?usp=sharing)
+- **Filename:** [`Practice spotify Analysis(1).xlsx`](https://docs.google.com/spreadsheets/d/1589uHYakPDdZz19lx-zURanHff0ZLZosa1xHu-kQLLs/edit?usp=sharing)
 - **Total Records:** `5000`
 - **Primary Keys:** `country`,`subscription_type`,`subscription_status`,`favorite_genre`,`primary_device`
 - **Source of Data:** [`spotify_user_behavior_realistic_50000_rows.csv`](https://www.kaggle.com/datasets/sahilislam007/spotify-user-behavior-and-pattern)
@@ -54,7 +54,7 @@ The dataset includes key attributes such as user demographics (age, country), su
 -**Optimize Multi-Device Experience-** Ensure seamless usage across mobile, tablet, and smart devices.
 
 ## Dashboard Image
-![Dashboard Screenshot](Dashboardimage.png)
+![Dashboard Screenshot](DashboardImage.png)
 
 ## Data Cleaning Notes
 -	**Formatting-** Custom number formatting of `signup_date` column into `yyyy` and renamed the column to `signup_year`.
