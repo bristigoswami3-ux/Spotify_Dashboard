@@ -4,7 +4,7 @@
 This project focuses on analyzing user behavior and engagement patterns on Spotify using an interactive data dashboard. The objective was to extract actionable insights to improve user retention, optimize subscription strategies, and enhance overall user experience.
 The dataset includes key attributes such as user demographics (age, country), subscription type and status, listening habits, engagement metrics (listening hours, playlists created, skips), and inactivity trends. Using Google Sheet/Excel, the data was cleaned, transformed, and visualized into a dashboard.
 
-![Cover Image](Coverphoto.png)
+![Cover Image](Cover photo.png)
 
 ## File Details
 - **Filename:** [`Practice spotify Analysis.xlsx`](https://docs.google.com/spreadsheets/d/1589uHYakPDdZz19lx-zURanHff0ZLZosa1xHu-kQLLs/edit?usp=sharing)
@@ -54,7 +54,7 @@ The dataset includes key attributes such as user demographics (age, country), su
 -**Optimize Multi-Device Experience-** Ensure seamless usage across mobile, tablet, and smart devices.
 
 ## Dashboard Image
-![Dashboard Screenshot] (Dashboardimage.png)
+![Dashboard Screenshot] (Dashboard image.png)
 
 ## Data Cleaning Notes
 -	**Formatting-** Custom number formatting of `signup_date` column into `yyyy` and renamed the column to `signup_year`.
